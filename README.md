@@ -4,17 +4,17 @@ Aplicação desenvolvida para o desafio de técnico do processo seletivo Bis2Bis
 
 Esse projeto foi desenvolvido da forma mais minimalista possível, para isto a opção foi usar o framework Express e diretamente o mongoDB sem qualquer ODM. Foi também opção usar a língua portuguesa tanto nas mensagens quanto nos commits.
 
-### Clonar repositório
+## Clonando repositório
 
 ```bash
 git clone https://github.com/ZecaCosta/universities.git
 ```
 
-### Instalação
+## Instalação
 ```bash
 npm install
 ```
-### Variáveis de ambiente a definir
+## Variáveis de ambiente a definir
 
 ```bash
 PORT
@@ -24,12 +24,12 @@ MONGO_USER
 MONGO_PASSWORD
 ```
 
-### rodar script para buscar e salvar dados das universidades
+## Rodando script para buscar e salvar dados das universidades
 ```bash
 npm run start:script
 ```
 
-### Rodando em desenvolvimento
+## Rodando em desenvolvimento
 
 ```bash
 npm run start:dev
