@@ -6,18 +6,23 @@ Esse projeto foi desenvolvido da forma mais minimalista possível, para isto a o
 
 ### Clonar repositório
 
-- `git clone https://github.com/ZecaCosta/universities.git
+```bash
+git clone https://github.com/ZecaCosta/universities.git
+```
 
 ### Instalação
 ```bash
 npm install
 ```
 ### Variáveis de ambiente a definir
+
+```bash
 PORT
 MONGO_DB
 MONGO_SERVER
 MONGO_USER
 MONGO_PASSWORD
+```
 
 ### rodar script para buscar e salvar dados das universidades
 ```bash
